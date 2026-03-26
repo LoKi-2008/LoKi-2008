@@ -26,28 +26,9 @@ Movies, Trekking, Gaming
 ---
 
 ## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FDD835?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+[![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-FDD835?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 
 ---
 
 ## 📊 GitHub Stats
 ![LoKi-2008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoKi-2008&show_icons=true&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoKi-2008&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoKi-2008&layout=compact&theme=tokyonight)
----
-
-> Ideas are seeds; code is where they grow. 🌿  
-
----
-
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-FDD835?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
----
-
-## 📊 GitHub Stats
-![LoKi-2008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoKi-2008&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoKi-2008&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoKi-2008&layout=compact&theme=tokyonight)
